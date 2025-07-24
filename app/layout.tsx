@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: "https://jumanzor.vercel.app",
     images: [
       {
-        url: "./og-large-meik-2.jpg",
+        url: "./og-jumanzor.png",
       },
     ],
   },
