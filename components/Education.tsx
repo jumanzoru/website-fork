@@ -18,7 +18,7 @@ export default function Education() {
             UC San Diego • B.S. Mathematics–Computer Science
           </p>
           <p className="text-slate-400 text-sm font-bold">
-            Sep 2022 – Jun 2026 (Expected) • GPA: 3.5
+            Sep 2022 – Jun 2027 (Expected) • Major GPA: 3.675
           </p>
 
           <CardDescription className="py-3 text-muted-foreground">
