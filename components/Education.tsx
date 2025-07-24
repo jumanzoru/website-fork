@@ -23,7 +23,7 @@ export default function Education() {
 
           <CardDescription className="py-3 text-muted-foreground">
             <strong>Computer Science & Engineering Courses:</strong><br />
-            • CSE 8A – Accelerated Intro to Programming (TP)<br />
+            • CSE 8A – Intro to Programming (TP)<br />
             • CSE 11 – Accelerated Intro to Programming (A)<br />
             • CSE 12 – Basic Data Structures & Object-Oriented Design (A)<br />
             • CSE 15L – Software Tools & Techniques Lab (A)<br />
