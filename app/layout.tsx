@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Jefferson Umanzor",
   },
+  icons: {
+    icon: "/favicon.ico", // 👈 Make sure this exists in the public folder
+  },
 };
 
 export default function RootLayout({
