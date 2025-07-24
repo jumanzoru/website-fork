@@ -34,7 +34,8 @@ export default function Education() {
             • CSE 110 – Software Engineering (In Progress)<br />
             • CSE 132A – Database System Principles (In Progress)<br />
             • CSE 150A – AI: Probabilistic Models (B+)<br />
-            • CSE 151A – Machine Learning: Learning Algorithms (A–)
+            • CSE 151A – Machine Learning: Learning Algorithms (A–)<br />
+            • CSE 158R – Recommender Systems and Web Mining (In Progress)
           </CardDescription>
 
           <CardDescription className="pb-3 text-muted-foreground">
