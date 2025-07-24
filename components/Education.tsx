@@ -63,7 +63,7 @@ export default function Education() {
             Grossmont College • Non-Degree Coursework
           </p>
           <p className="text-slate-400 text-sm font-bold">
-            Sep 2022 – Jun 2027 (Expected)
+            Summer 2024, Summer 2025, Fall 2025
           </p>
           <CardDescription className="py-3 text-muted-foreground">
             GPA: 4.0 • Completed GE requirements to accelerate UCSD graduation timeline.
