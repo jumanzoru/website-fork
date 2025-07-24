@@ -13,6 +13,7 @@ type NavItem = {
 export default function Nav() {
   const activeSection = useActiveSection([
     "about",
+    "education",
     "experience",
     "projects",
     "contact",
@@ -20,6 +21,7 @@ export default function Nav() {
 
   const navItems: NavItem[] = [
     { name: "About", href: "#about" },
+    { name: "Education", href: "#education" },
     { name: "Experience", href: "#experience" },
     { name: "Projects", href: "#projects" },
     { name: "Contact", href: "#contact" },
@@ -54,15 +56,13 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Alexander 👋
+          Hi, I&#39;m Jefferson 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Product designer, developer, founder.
+          Mathematics-Computer Science Student @ UC San Diego
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          I help innovative startups in AI, Web3, and Finance craft exceptional
-          user experiences, translating complex technologies into intuitive
-          interfaces that resonate with humans.
+          Passionate about software development, machine learning, and building impactful tools that bridge technical innovation with real-world change—from peer tutoring to environmental restoration to machine learning research.
         </p>
       </div>
       <nav className="lg:flex hidden">
@@ -85,7 +85,7 @@ export default function Nav() {
       <ul className="flex flex-row gap-6 mt-6 lg:mt-0">
         <Button variant="outline" size="icon">
           <a
-            href="https://github.com/0xAlexander"
+            href="https://github.com/umanzorurrutia"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,7 +94,7 @@ export default function Nav() {
         </Button>
         <Button variant="outline" size="icon">
           <a
-            href="https://linkedin.com/in/0xAlexander"
+            href="https://linkedin.com/in/jefferson-umanzor"
             target="_blank"
             rel="noopener noreferrer"
           >

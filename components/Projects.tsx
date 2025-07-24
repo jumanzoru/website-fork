@@ -12,82 +12,71 @@ import { MoveUpRight } from "lucide-react";
 
 const jobProjects = [
   {
-    imagePath: "/vela.avif",
-    title: "Vela Exchange - Product Design",
+    imagePath: "/bayes-cover.png",
+    title: "Lie Detector – Naive Bayes Text Classifier",
     description:
-      "Led a team of 4 designers, implementing design systems and processes to launch flagship features like Duels, Accounts, Loyalty Tiers, and Notification Tray and System.",
+      "Built a binary text classifier to detect lies using a Naive Bayes model trained on labeled datasets of truthful and deceptive statements. Explored word frequencies, probabilistic inference, and real-world applications of natural language processing (NLP).",
     skills: [
-      "Product Design",
-      "UI/UX Design",
-      "Design System",
-      "Design Strategy",
-      "Vercel",
-      "Figma",
+      "Python",
+      "Naive Bayes",
+      "Natural Language Processing (NLP)",
+      "Jupyter Notebooks",
+      "Data Preprocessing",
+      "Probability & Statistics",
     ],
-    link: "https://vela.exchange",
+    link: "https://github.com/umanzorurrutia/Lie-Detector-Agent",
   },
   {
-    imagePath: "/l3x.avif",
-    title: "L3X Network - Founding Product Design",
+    imagePath: "/weather-cover.png",
+    title: "Weather Predictor – Hidden Markov Model",
     description:
-      "L3X Network is a Layer 3 interoperability blockchain designed to provide institutions, developers, and users with secure, compliant, and efficient access to decentralized finance (DeFi) markets. My role involved founding and leading the design team, mapping UX, and designing the protocol's Landing Page and Interfaces for the Bridge, Trading, Swap, and Staking platforms.",
+      "Designed a weather prediction system using a discrete Hidden Markov Model (HMM) trained on real climate data. Implemented algorithms for parameter estimation and probabilistic inference, including forward-backward and Viterbi decoding.",
     skills: [
-      "Product Design",
-      "UI/UX Design",
-      "Design System",
-      "Design Strategy",
-      "Vercel",
-      "Figma",
+      "Python",
+      "Hidden Markov Models",
+      "Probability Theory",
+      "Data Modeling",
+      "Algorithm Implementation",
     ],
-    link: "https://l3x.com",
+    link: "https://github.com/umanzorurrutia/Weather-Detector",
   },
   {
-    imagePath: "/swoop-og-banner.webp",
-    title: "Swoop Exchange - Landing Page",
+    imagePath: "/shelter-cover.png",
+    title: "ShelterGuide – Pathfinding Web App",
     description:
-      "Swoop's landing page highlights the platform's use cases and solutions. Swoop Exchange is a Meta-DEX Aggregator that automatically sources, ranks and routes quotes from the best DEX Aggregators and Bridges, ensuring the best prices for on-chain and cross-chain swaps. Swoop Exchange has achieved millions in USD volume and currently has around 4000 monthly users with 0 paid marketing.",
+      "Developed a web app to help unhoused individuals find nearby emergency shelters, built at a UCSD hackathon. Integrated Google Maps API and implemented shelter search functionality with location filtering and accessibility-focused UI.",
     skills: [
-      "Next.js",
-      "Framer",
-      "Shadcn/ui",
-      "Typescript",
+      "HTML",
+      "CSS",
+      "Java",
       "JavaScript",
-      "Vercel",
-      "Figma",
+      "Hackathon Development",
+      "Team Collaboration",
     ],
-    link: "https://swoop.exchange",
+    link: "https://github.com/umanzorurrutia/ShelterGuide",
   },
   {
-    imagePath: "/app-front-1.png",
-    title: "Swoop Exchange - Application Design",
+    imagePath: "/rosas-cover.png",
+    title: "Rosas Demolition Company Website",
     description:
-      "Swoop Exchange is a next generation Meta Decentralized Exchange and Bridge Aggregator. By Aggregating the Aggregators, Bridges, and Liquidity across chains, and off-chain it solves protocol and liquidity fragmentation, significantly improving UX. Provides access to: 450,000+ Tokens, 7+ Aggregators, 13+ Bridges, 50+ DEXs, 280+ Liquidity Sources and 16+ Blockchains.",
+      "Created a modern, mobile-responsive website for a local demolition business to establish their online presence and attract clients. Designed and deployed a clean, professional front end with service descriptions and contact forms.",
     skills: [
-      "Next.js",
-      "Typescript",
+      "HTML",
+      "CSS",
+      "Web Design",
       "JavaScript",
-      "MUI",
-      "Tailwind CSS",
+      "UI/UX",
       "Vercel",
-      "Figma",
     ],
-    link: "https://app.mtopswap.com",
-  },
-  {
-    imagePath: "/meikopoulos.com_PC.png",
-    title: "meikopoulos.com",
-    description:
-      "The portfolio webpage you are looking at right now. Based on Brittany Chiang's website (they awesome). Coded in Visual Studio Code.",
-    skills: ["Typescript", "JavaScript", "Tailwind CSS", "Vercel"],
-    link: "https://github.com/0xAlexander/my-website",
+    link: "https://rosas-demo.vercel.app",
   },
 ];
 
 export default function Projects() {
   return (
     <section id="projects" className="scroll-mt-16 lg:mt-16">
-      <div className="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-background/0 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
-        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only">
+      <div className="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-background/0 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0">
+        <h2 className="text-sm font-bold uppercase tracking-widest text-foreground">
           Projects
         </h2>
       </div>

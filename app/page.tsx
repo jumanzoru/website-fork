@@ -1,6 +1,7 @@
 "use client";
 import Head from "next/head";
 import Nav from "@/components/Nav";
+import Education from "@/components/Education"; // ← new
 import ExpCard from "@/components/ExpCards";
 import Projects from "@/components/Projects";
 import About from "@/components/About";
@@ -43,6 +44,7 @@ export default function Home() {
           <Nav />
           <main className="flex flex-col pt-6 lg:pt-24 lg:w-1/2 lg:py-24 gap-8">
             <About />
+            <Education /> {/* 👈 Inserted here */}
             <ExpCard />
             <Projects />
             <Contact />

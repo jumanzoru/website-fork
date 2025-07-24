@@ -7,23 +7,23 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://meikopoulos.com"),
+  metadataBase: new URL("https://jumanzor.vercel.app"),
   alternates: {
-    canonical: "https://meikopoulos.com",
+    canonical: "https://jumanzor.vercel.app",
   },
-  title: "Alexander Meikopoulos - Product Designer in AI, Web3, and Finance",
+  title: "Jefferson Umanzor - Software Engineer & Math-CS Student at UCSD",
   description:
-    "Alexander Meikopoulos is a Product designer, developer & founder.",
+    "Jefferson Umanzor is a Mathematics–Computer Science student at UCSD passionate about AI, software development, and impactful tech.",
   keywords:
-    "Alexander Meikopoulos, Product Designer, AI, Web3, Finance, User Experience, UI/UX Design, Design Systems, Front-end Development, Decentralized Finance, DeFi, Swoop Exchange, Vela Exchange, Stealth AI Startup, Technology, Innovation, Human-Centered Design",
+    "Jefferson Umanzor, Software Engineer, UCSD, AI, Machine Learning, Backend Development, Full Stack, MERN, Research, Environmental Tech",
   openGraph: {
     locale: "en_US",
-    siteName: "Alexander Meikopoulos",
+    siteName: "Jefferson Umanzor",
     type: "website",
-    title: "Alexander Meikopoulos",
+    title: "Jefferson Umanzor",
     description:
-      "Alexander Meikopoulos is a Product designer, developer & founder.",
-    url: "https://meikopoulos.com",
+      "Jefferson Umanzor is a Mathematics–Computer Science student at UCSD passionate about AI, software development, and impactful tech.",
+    url: "https://jumanzor.vercel.app",
     images: [
       {
         url: "./og-large-meik-2.jpg",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alexander Meikopoulos",
+    title: "Jefferson Umanzor",
   },
 };
 
