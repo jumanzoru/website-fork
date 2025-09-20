@@ -11,7 +11,7 @@ export default function About() {
     </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-          I’m a Mathematics–Computer Science student at UC San Diego, deeply passionate about software engineering, AI, and using technology to create meaningful impact. Coming from a first-generation, low-income background, I’ve seen firsthand how access to opportunity can change lives—and I’m committed to paying that forward through mentorship, research, and engineering.
+          I’m a Computer Science student at UC San Diego, deeply passionate about software engineering, AI, and using technology to create meaningful impact. Coming from a first-generation, low-income background, I’ve seen firsthand how access to opportunity can change lives—and I’m committed to paying that forward through mentorship, research, and engineering.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
           I’ve built lie detectors using Naive Bayes, predicted weather with Hidden Markov Models, and developed tools like{" "}

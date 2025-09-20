@@ -15,7 +15,7 @@ export default function Education() {
       <Card className="lg:p-6 mb-4 flex flex-col w-full min-h-fit border-transparent hover:border dark:lg:hover:border-t-blue-900 dark:lg:hover:bg-slate-800/50 lg:hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:hover:drop-shadow-lg lg:hover:bg-slate-100/50 lg:hover:border-t-blue-200">
         <CardContent className="p-0">
           <p className="text-foreground font-bold">
-            UC San Diego • B.S. Mathematics–Computer Science
+            UC San Diego • B.S. Computer Science
           </p>
           <p className="text-slate-400 text-sm font-bold">
             Sep 2023 – Jun 2027 (Expected) • Major GPA: 3.675

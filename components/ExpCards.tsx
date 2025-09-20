@@ -13,7 +13,7 @@ import { MoveRight } from "lucide-react";
 const jobPositions = [
   {
     timeline: "Sep 2025 — Present",
-    currentPosition: "Incoming Undergraduate Researcher",
+    currentPosition: "Machine Learning Researcher",
     place: "UC San Diego CSE Department",
     previousPositions: [""],
     description:

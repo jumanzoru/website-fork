@@ -11,9 +11,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://jumanzor.vercel.app",
   },
-  title: "Jefferson Umanzor - Software Engineer & Math-CS Student at UCSD",
+  title: "Jefferson Umanzor - Software Engineer & CS Student at UCSD",
   description:
-    "Jefferson Umanzor is a Mathematics–Computer Science student at UCSD passionate about AI, software development, and impactful tech.",
+    "Jefferson Umanzor is a Computer Science student at UCSD passionate about AI, software development, and impactful tech.",
   keywords:
     "Jefferson Umanzor, Software Engineer, UCSD, AI, Machine Learning, Backend Development, Full Stack, MERN, Research, Environmental Tech",
   openGraph: {
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     type: "website",
     title: "Jefferson Umanzor",
     description:
-      "Jefferson Umanzor is a Mathematics–Computer Science student at UCSD passionate about AI, software development, and impactful tech.",
+      "Jefferson Umanzor is a Computer Science student at UCSD passionate about AI, software development, and impactful tech.",
     url: "https://jumanzor.vercel.app",
     images: [
       {
