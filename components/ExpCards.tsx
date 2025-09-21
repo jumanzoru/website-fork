@@ -24,7 +24,7 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Jul 2022",
+    timeline: "Jul 2022 — Jul 2022",
     currentPosition: "Entrepreneurship Mentor & Project Lead",
     place: "Project ECHO",
     previousPositions: [""],
@@ -53,7 +53,7 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Nov 2022",
+    timeline: "Nov 2022 — Nov 2022",
     currentPosition: "Research Field Support",
     place: "Santa Rosa Island Research Station",
     previousPositions: [

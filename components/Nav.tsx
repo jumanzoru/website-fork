@@ -57,7 +57,7 @@ export default function Nav() {
           Hi, I&#39;m Jefferson 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Computer Science Student @ UC San Diego
+          Machine Learning Researcher & Computer Science Student @ UC San Diego
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
           Passionate about software development, machine learning, and building impactful tools that bridge technical innovation with real-world change—from peer tutoring to environmental restoration to machine learning research.
