@@ -24,18 +24,48 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Jul 2022 — Jul 2022",
-    currentPosition: "Entrepreneurship Mentor & Project Lead",
-    place: "Project ECHO",
+    timeline: "Aug 2025 — Present",
+    currentPosition: "Computer Science Mentor",
+    place: "UC San Diego Muir College",
     previousPositions: [""],
     description:
-      "Taught entrepreneurship and presentation skills to underserved high school students, leading a team that placed second in a regional pitch competition. Designed lesson plans, coached students one-on-one, and built confidence through real-world business frameworks.",
+      "Supporting first-generation CS students with personalized mentorship on academic planning, coding resources, and career pathways, improving confidence in navigating UCSD’s CSE curriculum. Introducing coding practice routines and project-building strategies using industry tools, helping accelerate readiness for early internship opportunities.",
     skills: [
       "Curriculum Development",
       "Project Leadership",
-      "Public Speaking",
-      "Presentation Design",
-      "Team Leadership",
+      "Mentoring",
+      "Computer Science",
+      "Collaboration",
+    ],
+  },
+  {
+    timeline: "Sep 2023 — Jun 2025",
+    currentPosition: "Independent Calculus Tutor",
+    place: "UC San Diego",
+    previousPositions: [""],
+    description:
+      "Tutored UCSD undergraduates in Calculus I–III by explaining concepts and guiding problem sets, strengthening comprehension and exam performance.",
+    skills: [
+      "Calculus",
+      "Tutoring",
+      "Leadership",
+      "Mathematics",
+      "Collaboration",
+    ],
+  },
+  {
+    timeline: "Dec 2023 — Jun 2024",
+    currentPosition: "Lead Web Developer & Principal Member",
+    place: "UC San Diego — Mitochondria Club",
+    previousPositions: [""],
+    description:
+      "Built responsive website prototypes for two UCSD student organizations using HTML and CSS while collaborating with a 3-person team on UI/UX design, improving usability and accessibility for student audiences. Managed collaborative development through Git and GitHub workflows, ensuring clean version control and delivering functional prototypes approved by stakeholders within 3 months.",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Agile",
+      "Web Development",
     ],
   },
   {
@@ -66,6 +96,21 @@ const jobPositions = [
       "Environmental Monitoring",
       "Ecological Restoration",
       "Scientific Data Collection",
+    ],
+  },
+  {
+    timeline: "Jul 2022 — Jul 2022",
+    currentPosition: "Entrepreneurship Mentor & Project Lead",
+    place: "Project ECHO",
+    previousPositions: [""],
+    description:
+      "Taught entrepreneurship and presentation skills to underserved high school students, leading a team that placed second in a regional pitch competition. Designed lesson plans, coached students one-on-one, and built confidence through real-world business frameworks.",
+    skills: [
+      "Curriculum Development",
+      "Project Leadership",
+      "Public Speaking",
+      "Presentation Design",
+      "Team Leadership",
     ],
   },
 ];
